@@ -1,0 +1,27 @@
+/* Applying Css To The Design */
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+
+  input {
+    border: 2px dotted black;
+    width: 100px;
+    margin: 5px;
+    height: 30px;
+  }
+
+  button {
+    color: white;
+    background-color: crimson;
+    width: 100px;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  button:hover{
+    color: black;
+    background-color: greenyellow;
+    box-shadow: inset;
+  }
