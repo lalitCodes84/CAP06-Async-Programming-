@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    box-shadow: rgb(74, 247, 16) 0px 54px 55px, rgba(15, 7, 251, 0.841) 0px -12px 30px, rgba(90, 8, 242, 0.874) 0px 4px 6px,rgba(39, 4, 238, 0.857) 0px 12px 13px,rgba(94, 9, 251, 0.914) 0px -3px 5px;
+    border-radius: 50px;
+    margin-right: 300px;
+    margin-left: 300px;
+    
+  }
+  #time {
+    display: flex;
+    justify-content: center;
+    font-size: 600%;
+    font-family: 'Agency FB', sans-serif;
+    margin: 20px;
+  }
+  button{
+    font-size: 30px;
+    background-color: rgb(9, 9, 9);
+    margin-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 50px;
+    box-shadow: rgb(116, 16, 247) 0px 54px 55px, rgba(251, 7, 7, 0.841) 0px -12px 30px, rgba(242, 8, 8, 0.874) 0px 4px 6px, rgba(238, 4, 4, 0.857) 0px 12px 13px, rgba(251, 9, 9, 0.914) 0px -3px 5px;
+    color: white;
+    margin-bottom: 30px;
+  }
